@@ -18,3 +18,5 @@ var obj1 = new Usuario('Jesus Daniel','Gutierrez Aguirre','17400987',
 console.log("El usuario ingresado es: "+obj1.nombres+" sus apellidos son: "+
 obj1.apellidos+' Su numero de control es: '+obj1.noControl+" Su semestre es: "+
 obj1.semestre+' Su promedio es de: '+obj1.promedio);
+
+//primera modificacion
